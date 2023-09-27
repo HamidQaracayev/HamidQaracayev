@@ -11,7 +11,7 @@
 
 - ⚡ Spending my time on: **Prowrestling, Popular Science, Gaming and Code**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

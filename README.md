@@ -1,8 +1,10 @@
-![MasterHead](https://media2.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)
-<h1 align="center" >Hi, I'm Hamid Welcome to my Profile!</h1>
+![MasterHead](https://i.pinimg.com/originals/97/56/2a/97562a7858d744ef6c30286e35beb9c3.gif)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1D35F7&vCenter=true&width=550&lines=Hi%2C+I'm+Hamid+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidqaracayev&label=Profile%20views&color=0e75b6&style=flat" alt="hamidqaracayev" /> </p>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ddb971c3cf1e6402d687867cf4630b81/f0d3ebbb2d0bafd4-17/s1280x1920/e040d9cddf0f70d9a7d14c2c06f0ee57c87414d9.gif">
 
+
+
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ddb971c3cf1e6402d687867cf4630b81/f0d3ebbb2d0bafd4-17/s1280x1920/e040d9cddf0f70d9a7d14c2c06f0ee57c87414d9.gif">
 - 🔭 I’m currently a Computer Science student and participating in **Codeforfuture**
 
 - 🌱 I’m currently learning **C#, Linux**
@@ -21,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidqaracayev&show_icons=true&locale=en" alt="hamidqaracayev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidqaracayev&" alt="hamidqaracayev" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidqaracayev&show_icons=true&locale=en&layout=compact" alt="hamidqaracayev" /></p>

@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidqaracayev&" alt="hamidqaracayev" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidqaracayev&show_icons=true&locale=en&layout=compact" alt="hamidqaracayev" /></p>
+

@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/97/56/2a/97562a7858d744ef6c30286e35beb9c3.gif)
+![MasterHead](https://media.tenor.com/EAktShRMJ-0AAAAd/disco-disco-elysium.gif)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1D35F7&vCenter=true&width=550&lines=Hi%2C+I'm+Hamid+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidqaracayev&label=Profile%20views&color=0e75b6&style=flat" alt="hamidqaracayev" /> </p>
 

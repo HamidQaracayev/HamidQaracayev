@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a Computer Science student and participating in **Codeforfuture**
 
-- 🌱 Currently learning Linux**
+- 🌱 Currently learning **Linux**
 
 - 📫 How to reach me **hamidqrcyv@gmail.com**
 

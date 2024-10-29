@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ddb971c3cf1e6402d687867cf4630b81/f0d3ebbb2d0bafd4-17/s1280x1920/e040d9cddf0f70d9a7d14c2c06f0ee57c87414d9.gif">
 
-- 🔭 I’m currently a Computer Science student and participating in **Codeforfuture**
+- 🔭 I’m currently a Computer Science student 
 
 - 🌱 Currently learning **Linux**
 
